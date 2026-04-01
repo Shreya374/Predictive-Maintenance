@@ -1,0 +1,6 @@
+﻿"name","fullName","count","percentage"
+"TWF","Tool Wear Failure","46","0.46"
+"HDF","Heat Dissipation Failure","115","1.15"
+"PWF","Power Failure","95","0.95"
+"OSF","Overstrain Failure","98","0.98"
+"RNF","Random Failure","19","0.19"
