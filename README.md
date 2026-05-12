@@ -1,4 +1,5 @@
 # 🔧 Predictive Maintenance — End-to-End ML Pipeline
+<img width="1200" height="480" alt="Nortech_Industrial_617366372_1200x500" src="https://github.com/user-attachments/assets/269e250c-420b-4b79-b83e-99ecedc14d0b" />
 
 > **Forecast equipment failures before they occur — minimise downtime, reduce costs, and extend asset life using machine learning on sensor data.**
 
